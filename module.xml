@@ -1,0 +1,18 @@
+<module>
+	<rawname>moduleshortname</rawname>
+	<name><<full module name>></name>
+	<version>1.2.0.0</version>
+	<publisher>POSSA</publisher>
+	<license>GPLv2+</license>
+	<category>Other</category>
+	<menuitems>
+		<menu_name needsenginedb="yes">Menu_Name</menu_name>
+	</menuitems>
+	<changelog>
+		*1.2*  Another description
+		*1.1* description
+	</changelog>
+	<depends>
+		<version>ge 2.9</version>
+	</depends>
+</module>
