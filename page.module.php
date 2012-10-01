@@ -50,7 +50,11 @@ if(isset($_POST['action'])) {
 		break;
 	}
 }
-	
+
+//  to add right navigation menu enclose output in <div class="rnav"> </div>
+echo '<div class="rnav">';
+echo "menu items";
+echo '</div>';
 	
 ?>
 
