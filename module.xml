@@ -14,5 +14,7 @@
 	</changelog>
 	<depends>
 		<version>ge 2.9</version>
+		<phpcomponent>gd</phpcomponent>
+
 	</depends>
 </module>
