@@ -44,4 +44,5 @@ function <<modulename>>_edit($id,$post){
 		WHERE <<indexcolumnname>> = '$id'");
 }
 
+//  It is critical that no characters (including LF) be outside the php tags, best to eliminate the final ?> altogether
 ?>
